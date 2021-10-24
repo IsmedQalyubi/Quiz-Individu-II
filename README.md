@@ -15,6 +15,11 @@
   
 3.SEBUTKAN DAN JELASKAN EKSTENSION ITU APA, DAN CONTOHNYA DAN PENERAPANNYA(DIDALAM VS CODE)\
   Extension adalah file yang berisi pemrograman yang berfungsi untuk memperluas kemampuan atau data yang tersedia ke program yang lebih mendasar.ini beberapa extension:\
-  ![image](
-  Contohnya
+  ![image](https://github.com/IsmedQalyubi/Quiz-Individu-II/blob/main/IMG_20211024_130259.png) 
+  
+  Contoh dan penerapannya:\
   ![image](https://1.bp.blogspot.com/-76EWW0GayQk/XuAVm57kJgI/AAAAAAAAQgs/SQtc-HLLS_EyeFX-sZMpAPArBZUCNPElwCK4BGAsYHg/s1024/1-min.png) \
+  Install exstension python pada vscode (actifity bar - ekstension - tulis "python" pada menu pencarian - install - tunggu hingga proses installing selesai)
+  Buatlah file python dan mulai coba membuat codingan kemudian codingan python bisa dijalankan di Vscode dengan sudah adanya extension python. 
+  
+
