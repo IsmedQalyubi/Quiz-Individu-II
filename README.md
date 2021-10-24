@@ -4,11 +4,11 @@
   Arti dari angka tersebut merupakan agar Pengguna python bisa mengetahui versi python yang dipakai versi terbaru atau lama. Jadi versi python pertama/awal yg dirilis di versi angka 2.0.1 dan sampai sekarang versi terbarunya yg terdapat pada gambar tersebut versi 3.10.0
 
 2.BUATLAH TUTORIAL SETIAP FUGSI PADA TOOLS VS-CODE\
-  ![image](
-  1.Extensions\
+  ![image](https://raw.githubusercontent.com/IsmedQalyubi/Quiz-Individu-II/main/IMG_20211024_121234.png) 
+  5.Extensions\
   Ekstensi adalah fungsi tambahan dalam yang berfungsi untuk memperluas kemampuan dari editor yang dapat membantu developer dalam melakukan programming. 
   
-  2.Search\
+  
   
   
 
