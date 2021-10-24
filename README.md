@@ -5,12 +5,12 @@
 
 2.BUATLAH TUTORIAL SETIAP FUGSI PADA TOOLS VS-CODE\
   ![image](https://raw.githubusercontent.com/IsmedQalyubi/Quiz-Individu-II/main/IMG_20211024_121234.png) 
-  5.Extensions\
-  Ekstensi adalah fungsi tambahan dalam yang berfungsi untuk memperluas kemampuan dari editor yang dapat membantu developer dalam melakukan programming. 
+  1.Explorer:untuk menampilkan file pada project.\
+  2.Search: Mencari kata yang ingin anda cari di vscode. \
+  3.Sourche control: Dipakai jika sudah terintegrasi dengan git. \
+  4.Run debugging: Melakukan proses perbaikan coding dengan cara memantau variabel. \
+  5.Extensions: Fungsi tambahan dalam yang berfungsi untuk memperluas kemampuan dari editor yang dapat membantu developer dalam melakukan programming. \
+  6.Account   : Melakukan pendaftaraan akun, serta masuk ke akun yang sudah ada. \
+  7.Setting   : Mengatur sesuai keinginan user. 
   
-  
-  
-  
-
-
-3.Sebutkan dan jelaskan ekstension itu apa, dan contohnya dan penerapannya(didalam vs code)
+3.SEBUTKAN DAN JELASKAN EKSTENSION ITU APA, DAN CONTOHNYA DAN PENERAPANNYA(DIDALAM VS CODE)
