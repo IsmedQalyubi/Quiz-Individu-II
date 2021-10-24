@@ -13,4 +13,8 @@
   6.Account   : Melakukan pendaftaraan akun, serta masuk ke akun yang sudah ada. \
   7.Setting   : Mengatur sesuai keinginan user. 
   
-3.SEBUTKAN DAN JELASKAN EKSTENSION ITU APA, DAN CONTOHNYA DAN PENERAPANNYA(DIDALAM VS CODE)
+3.SEBUTKAN DAN JELASKAN EKSTENSION ITU APA, DAN CONTOHNYA DAN PENERAPANNYA(DIDALAM VS CODE)\
+  Extension adalah file yang berisi pemrograman yang berfungsi untuk memperluas kemampuan atau data yang tersedia ke program yang lebih mendasar.ini beberapa extension:\
+  ![image](
+  Contohnya
+  ![image](https://1.bp.blogspot.com/-76EWW0GayQk/XuAVm57kJgI/AAAAAAAAQgs/SQtc-HLLS_EyeFX-sZMpAPArBZUCNPElwCK4BGAsYHg/s1024/1-min.png) \
